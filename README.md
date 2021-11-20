@@ -19,6 +19,9 @@
 | PUT | /clients/id |
 | DELETE | /clients/id |
 
+## Collection Postman
+> https://www.getpostman.com/collections/8a0b443c0f4a940b8e07
+
 ### Buscando um cliente
 GET /clients/1
 
